@@ -29,6 +29,10 @@
     margin-right: auto;
   
   }
+
+  .imagen .juego:hover{
+    filter:contrast(120%);
+  }
   
   .card-info {
     background-color: white;
