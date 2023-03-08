@@ -25,7 +25,8 @@ Cambio de logo por el realizado
 Añadido filtro de de saturacion cuando se pasa el cursor sobre la imagen de un producto
 Añadido audio de fondo a todos los sitios
 Video de testimonio añadido en una tarjeta de un usario en comentarios.
-Video añadido de fondo en login
+Video añadido de fondo en login y registro
+Gif añadido en el login y registro
 
 ## RECURSOS<a name="id4"></a>
 https://www.youtube.com/watch?v=eeHqZeJ9Vqc
