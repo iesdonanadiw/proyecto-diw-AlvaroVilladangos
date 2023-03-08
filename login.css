@@ -113,5 +113,25 @@
   }
 
   .bodyfalso {
-    filter: blur(5px);
+    filter: blur(3px);
+
+  }
+
+  .bodyfalso video{
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  .login img{
+    display: block;
+    margin: auto;
+    width: 20%;
+    height: 20%;
+    padding: 10px;
+  }
+
+  .login .gif{
+    background-color: #ff6b01;
   }

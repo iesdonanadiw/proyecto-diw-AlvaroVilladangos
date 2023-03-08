@@ -18,7 +18,14 @@ https://www.figma.com/file/1TNzzLylGt5aUp9zFrJACZ/Proyecto?node-id=0%3A1&t=MDwk3
 El carrusel de anuncios no he podido implementarlo
 Cambio de colores en header y footer para concordar con el logo y la tematica de la pagina
 cambio en el tamaño de tarjetas para que se visualicen mejor
-en login y registro en vez de ponerse en blanco y negro se ve borroso para que el login sobresalte  
+en login y registro en vez de ponerse en blanco y negro se ve borroso para que el login sobresalte
+
+##Entrega 4
+Cambio de logo por el realizado
+Añadido filtro de de saturacion cuando se pasa el cursor sobre la imagen de un producto
+Añadido audio de fondo a todos los sitios
+Video de testimonio añadido en una tarjeta de un usario en comentarios.
+Video añadido de fondo en login
 
 ## RECURSOS<a name="id4"></a>
 https://www.youtube.com/watch?v=eeHqZeJ9Vqc

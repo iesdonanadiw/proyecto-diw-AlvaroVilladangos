@@ -7,8 +7,15 @@
     cursor: pointer;
     box-shadow: 3px 3px 25px rgba(0,0,0,0.3);
     transition: .4s;
+    display: block;
   }
-  
+  .comment video{
+    display: block;
+    margin: auto;
+    padding: 5px;
+    width: 50%;
+    height: 50%;
+  }
   
   .Profile{
     display: flex;
